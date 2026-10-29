@@ -1,0 +1,10 @@
+# traffic captures and server logs: they hold other players' names and passwords
+logs/
+tools/logs/
+
+# build output (the exe is published on the Releases page)
+*.exe
+build/
+dist/
+__pycache__/
+*.pyc
