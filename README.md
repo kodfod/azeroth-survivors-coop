@@ -167,5 +167,5 @@ This installs PyInstaller and writes `dist\AzerothCoopServer.exe`.
 | `client/LaunchCustomRelay.bat` | game launcher for players |
 | `tools/relay_proxy.py` | developer tool: logs the traffic between the game and the **official** servers, used to work out the protocol ([PROTOCOL.md](PROTOCOL.md)) |
 
-The proxy's logs contain lobby names, player names and passwords of
+The proxy's logs contain lobby names, player names and lobby passwords of
 everyone in the lobbies it saw. Don't share them.
